@@ -1,0 +1,9 @@
+instructions
+
+file handling?
+
+
+homework:
+    - all file opening modes
+    - all functions to read and write to a file
+    

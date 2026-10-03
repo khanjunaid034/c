@@ -1,0 +1,3 @@
+Name is Mahesh, Age is 24, Degree is BSC.
+Name is Juned, Age is 25, Degree is MCA.
+Name is Mona, Age is 24, Degree is BSC.

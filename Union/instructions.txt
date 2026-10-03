@@ -1,0 +1,28 @@
+structures:
+    int age;
+    char gender 'm';
+    double marks_percentage;
+
+    struct
+
+union:
+    int age;
+    char gender;
+    double marks;
+
+    age = 20;
+
+    gender = 'm'
+
+    marks = 100.0;
+
+      age = 20;
+
+union salary {
+    float;
+    int;
+}
+
+int salary_int;
+float salary_float;
+

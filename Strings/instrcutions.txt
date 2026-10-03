@@ -1,0 +1,7 @@
+int arr[] = {1, 2, 3, 4};
+
+char grade = 'A';
+
+char name[] = {'J', 'u', 'n', 'e', 'd', '\0'};
+
+char name[] = "Juned";

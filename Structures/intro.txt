@@ -1,0 +1,19 @@
+student -> 
+    roll no
+    name
+    percentage
+
+int roll_no_1;
+char name_1[50];
+float percentage_1;
+
+
+int roll_no_2;
+char name_2[50];
+float percentage_2;
+
+
+Structures
+
+    int roll_numbers = {1,2,3,4};
+    roll_numbers[0];

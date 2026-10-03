@@ -1,0 +1,21 @@
+Why arrays? — storing multiple values of the same data type under one variable name.
+What is a 1D array? — definition and basic mental model.
+Array declaration — int arr[5];
+Array initialization — declaration-time initialization.
+Array indexing — accessing elements using 0 to n-1.
+Memory representation — contiguous memory and element addresses.
+Taking input into an array — using scanf() with a loop.
+Printing/traversing an array — using for loops.
+Modifying array elements — updating individual elements.
+Array size and bounds — valid vs invalid indexes.
+
+
+Finding sum and average — basic array processing.
+Finding maximum and minimum — comparison-based processing.
+Searching an array — linear search.
+Counting elements — positive/negative, even/odd, etc.
+Reversing an array — swapping elements.
+Copying an array — element-by-element copying.
+Comparing arrays — comparing contents rather than using ==.
+Common mistakes — off-by-one errors, uninitialized arrays, out-of-bounds access.
+Practice problems — progressively harder exercises combining the above.
